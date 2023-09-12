@@ -48,7 +48,8 @@ h2{display:inline-block;
 }
 
 @media (max-width:680px){
-BODY{WIDTH:100%;}
+BODY{
+overflow-x:hidden;}
 
 .logo{width:100px;}
     h1 {
